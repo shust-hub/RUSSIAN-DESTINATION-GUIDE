@@ -92,8 +92,8 @@
   .guide {
     font-size: 20px;
   }
-  .guide:first-child {
-    margin-right: 5%;
+  .guide:last-child {
+    margin-left: 5%;
   }
   .guide ul li a {
     font-size: 20px;

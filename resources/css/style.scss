@@ -73,8 +73,8 @@
 
     @media (min-width:670px) {
         font-size: 20px;
-        &:first-child{
-            margin-right: 5%;
+        &:last-child{
+            margin-left: 5%;
         }
         ul{
             li {
